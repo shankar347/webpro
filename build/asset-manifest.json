@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/webpro/static/css/main.b1e18692.css",
+    "main.js": "/webpro/static/js/main.1975ccdf.js",
+    "static/js/787.64505ed6.chunk.js": "/webpro/static/js/787.64505ed6.chunk.js",
+    "static/media/binary-2380422_1920.jpg": "/webpro/static/media/binary-2380422_1920.ebda71a93f53169a507b.jpg",
+    "static/media/webimg1-removebg-preview.png": "/webpro/static/media/webimg1-removebg-preview.f71757e144706b0c0341.png",
+    "static/media/whatsappb.png": "/webpro/static/media/whatsappb.b1b801cf0375045d4f69.png",
+    "static/media/twitter.png": "/webpro/static/media/twitter.e58e4997ef85cbd7054c.png",
+    "static/media/instagramb.png": "/webpro/static/media/instagramb.bc603acad2a8cb3bd098.png",
+    "static/media/ux-design.png": "/webpro/static/media/ux-design.50a10d300361a34361f1.png",
+    "static/media/grid.png": "/webpro/static/media/grid.e28a8381a203a618ceb8.png",
+    "static/media/app-development.png": "/webpro/static/media/app-development.26d5d614c1d5e3f48a40.png",
+    "static/media/facebookb.png": "/webpro/static/media/facebookb.8d51a55626e9bf107f8f.png",
+    "index.html": "/webpro/index.html",
+    "main.b1e18692.css.map": "/webpro/static/css/main.b1e18692.css.map",
+    "main.1975ccdf.js.map": "/webpro/static/js/main.1975ccdf.js.map",
+    "787.64505ed6.chunk.js.map": "/webpro/static/js/787.64505ed6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b1e18692.css",
+    "static/js/main.1975ccdf.js"
+  ]
+}
